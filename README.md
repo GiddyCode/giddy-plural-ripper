@@ -66,6 +66,6 @@ This tool is inspired by the need to easily download course videos from Pluralsi
 
 ## Contact
 
-For any inquiries or questions, feel free to reach out to me at sayeed205@gmail.com.
+For any inquiries or questions, feel free to reach out to sayeed205@gmail.com.
 
 Happy learning and happy downloading!
